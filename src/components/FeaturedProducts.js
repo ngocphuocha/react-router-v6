@@ -1,9 +1,9 @@
 import React from 'react';
 
-const FeturedProducts = () => {
+const FeaturedProducts = () => {
   return <div>
       List of featured products
   </div>;
 };
 
-export default FeturedProducts;
+export default FeaturedProducts;
