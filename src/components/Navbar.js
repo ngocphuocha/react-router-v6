@@ -12,5 +12,6 @@ export const Navbar = () => {
     return (<nav>
         <NavLink style={navLinkStyles} to='/'>Home</NavLink>
         <NavLink style={navLinkStyles} to='/about'>About</NavLink>
+        <NavLink style={navLinkStyles} to='/product'>Product</NavLink>
     </nav>);
 };

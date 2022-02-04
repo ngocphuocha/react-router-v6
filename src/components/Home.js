@@ -6,6 +6,7 @@ const Home = () => {
     const orderProduct = () => {
         navigate('/order-summary', { replace: true });
     }
+
     return (
         <>
             Homepage
