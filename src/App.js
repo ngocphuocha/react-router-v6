@@ -32,7 +32,7 @@ function App() {
                 <Route path="*" element={<NoMatch/>}/>
             </Routes>
         </>
-    );
+    )
 }
 
-export default App;
+export default App
